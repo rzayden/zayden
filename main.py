@@ -37,7 +37,6 @@ else:
   print("incorrect!\n ")
   print("The correct answer is" , answer_1, "\n\n ")
 
-
 #question 3
 question_3 = print(" 3) what is greetings in teo reo?\n(a) ata pai\n(b) tena koutou\n(c) paru\n(d) tere\n\n ")
 
@@ -51,7 +50,6 @@ for i in range(chances) :
 else:
   print("incorrect!\n ")
   print("The correct answer is" , answer_1, "\n\n ")
-
 
 #question 4
 question_4 = print(" 4) what is family in teo reo?\n(a) rongonui\n(b) kei hea\n(c) tere\n(d) whanau\n\n ")
@@ -67,9 +65,8 @@ else:
   print("incorrect!\n ")
   print("The correct answer is" , answer_1, "\n\n ")
 
-
 #question 5
-question_1 = print(" 5) what is good morning in teo reo?\n(a) ata pai\n(b) neke\n(c) tangata\n(d) moringa\n\n ")
+question_1 = print(" 5) what is good morning in teo reo?\n(a) ata pai\n(b) neke\n(c) tangata\n(d) morena\n\n ")
 
 answer_5 = "d"
 for i in range(chances) :
