@@ -50,3 +50,18 @@ else:
   print("incorrect!\n ")
   print("The correct answer is" , answer_1, "\n\n ")
 
+#question 4
+question_4 = print(" 4) what is family in teo reo?\n(a) rongonui\n(b) kei hea\n(c) tere\n(d) whanau\n\n ")
+
+answer_1 = "d"
+for i in range(chances) :
+    answer = input("answer: ")
+    if (answer.lower() == answer_1):
+       print("correct! Good Job. \n")
+       score = score + 1
+       break
+else:
+  print("incorrect!\n ")
+  print("The correct answer is" , answer_1, "\n\n ")
+
+
